@@ -61,9 +61,11 @@ img {
 /** Header **/
 .webp .header {
     background-image: url(../img/bannerRefacMaster.webp);
+    opacity: 0.85
 }
 .no-webp .header {
     background-image: url(../img/bannerRefacMaster.jpg);
+    opacity: 0.85
 }
 .header {
     height: 60rem;
